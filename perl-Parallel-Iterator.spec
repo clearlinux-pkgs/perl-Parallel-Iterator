@@ -4,7 +4,7 @@
 #
 Name     : perl-Parallel-Iterator
 Version  : 1.00
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Parallel-Iterator-1.00.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Parallel-Iterator-1.00.tar.gz
 Summary  : Simple parallel execution
