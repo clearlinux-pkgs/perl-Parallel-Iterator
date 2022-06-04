@@ -4,7 +4,7 @@
 #
 Name     : perl-Parallel-Iterator
 Version  : 1.00
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Parallel-Iterator-1.00.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/A/AN/ANDYA/Parallel-Iterator-1.00.tar.gz
 Summary  : Simple parallel execution
@@ -82,4 +82,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Parallel/Iterator.pm
+/usr/lib/perl5/*
